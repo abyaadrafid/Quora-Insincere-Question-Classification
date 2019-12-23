@@ -71,4 +71,4 @@ This layer consists of a dropout, a relu and a batchnorm layer, sandwiched betwe
 The model was trained 5 epochs with Stratified 5-fold-cross-validation. Adam optimizer with 0.01 learning rate and ExponentialLR scheduler was used.
 
 ### Best threshold for classification
-The score provided by the model is not to define classes of the input. We need a specific threshold to separate the two classes. The best threshold was calculated on the training data, then it was applied on the test data.
+The score provided by the model is not to define classes of the input. We need a specific threshold to separate the two classes. The best threshold was calculated on the training data, then it was applied on the test data. Based on the threshold of the score, test data was classified and submitted.
