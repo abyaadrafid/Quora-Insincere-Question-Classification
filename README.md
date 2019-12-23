@@ -1,4 +1,4 @@
-# Quora-Insincere-Question-Classification
+# [Quora Insincere Question Classification]{https://www.kaggle.com/c/quora-insincere-questions-classification}
 The problem for this competition was text binary classification. The goal of this competition was to develop a model that can flag potentially toxic/insincere questions. Being a kernel-only competition, models available memory and execution time was limited for submissions. I developed a model and submitted it to the competition after it had ended. The submissions placed me at :
 
   * Public LB  : Top 50
